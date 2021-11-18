@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Lebanese University, 2016
+* M.S. in Information Systems and Data Intelligence, Lebanese University, 2018
+* Ph.D in Computer Science, University of Western Brittany, France.
 
-Work experience
+PhD thesis:
+**The French Naval Academy Research Institute (IRENav), Brest, France**
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Thesis title:** Modelling, managing and processing of mobility data in urban environments.  
+**Topic:** The research is motivated by the need for a better understanding of the impact of pollution on human mobilities in urban environments. This work aims at providing contributions towards generic modelling and management approaches for semantic trajectories in indoor and outdoor environments and real-time detection of complex situations from the semantic trajectories. This work includes integrating crowdsourced information, including spatio-temporal data, the offline processing of these data on graph and relational databases and the real-time processing on top of streaming big data frameworks.
+**Main duties performed:**
+* Develop a hierarchical and unified spatial model for indoor and outdoor spaces.
+* Develop a generic approach for indoor and outdoor semantic trajectories.
+* Develop a framework for real-time detection of complex situations based on semantic semantic trajectories.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Master thesis:
+**Telecom SudParis (SAMOVAR), Evry, France**
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Thesis title:** Real-Time reasoning on gigantic and noisy data streams.
+**Topic:** The training focused on the problem of how to reason in real-time on gigantic and noisy data streams in order to support the decision process of extremely large numbers of concurrent users.
+**Main duties performed:** Investigate and develop an expressive non-monotonic logic-based formalism for the reasoning over uncertain data stream through logical constraints.
+
   
-Talks
+Software Engineer:
+**SETS Solutions, Beirut, Lebanon**
+====== 
+Member of an Agile Scrum development team responsible for a Human Resources Management System [People365](https://people365.com).
+ 
+ 
+Technical Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* **Programming languages:**  Python, Java, C#, C++, C, Scala, SQL 
+* **Databases:** Neo4j, PostgresSQL/PostGIS, MongoDB, Ms SQL Server, MySQL
+* **Web development:** Asp.net, PHP, JavaScript
+* **Big data technologies:** e.g., Flink, FlinkCEP, Kafka, Spark, Hadoop, MapReduce, Cassandra
+* **Machine Learning and Deep Learning**
+* **Version Control:** GIT
+
+
+Language
+======
+English: Fluent   
+French: Intermediate   
+Arabic: Native
+
+
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
