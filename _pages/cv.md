@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Western Brittany, France.
-* M.S. in Information Systems and Data Intelligence, Lebanese University, 2018
-* B.S. in Computer Science, Lebanese University, 2016
+* Ph.D in Computer Science, University of Western Brittany, France (submission planned in 2022)
+* M.S. in Information Systems and Data Intelligence, Lebanese University, Lebanon, 2018
+* B.S. in Computer Science, Lebanese University, Lebanon, 2016
 
 PhD thesis:
 ======
