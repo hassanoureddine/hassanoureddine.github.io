@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Who am I:** 
-
+**Who am I:**   
 I am currently a computer science Ph.D. researcher at the Naval Academy Research Institute (IRENav) and a teaching assistant at the Naval Academy in France.
 I am supervised by Prof. [Christophe Claramunt](http://christophe.claramunt.free.fr/) and Associate Prof. [Cyril Ray](http://cyril.ray.free.fr/). 
 My Ph.D. research focuses on modelling, managing and processing urban trajectories.
