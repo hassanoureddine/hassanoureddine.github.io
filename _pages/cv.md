@@ -17,7 +17,7 @@ Education
 
 PhD thesis:
 ======
-**The French Naval Academy Research Institute (IRENav), Brest, France**
+**The French Naval Academy Research Institute (IRENav), Brest, France** November 2018 - Ongoing (exp. Oct. 2022)
 
 **Thesis title:** Modelling, managing and processing of mobility data in urban environments.  
 **Topic:** The research is motivated by the need for a better understanding of the impact of pollution on human mobilities in urban environments. This work aims at providing contributions towards generic modelling and management approaches for semantic trajectories in indoor and outdoor environments and real-time detection of complex situations from the semantic trajectories. This work includes integrating crowdsourced information, including spatio-temporal data, the offline processing of these data on graph and relational databases and the real-time processing on top of streaming big data frameworks.  
@@ -29,7 +29,7 @@ PhD thesis:
 
 Master thesis:
 ======
-**Telecom SudParis (SAMOVAR), Evry, France**
+**Telecom SudParis (SAMOVAR), Evry, France** April 2018 - September 2018
 
 **Thesis title:** Real-Time reasoning on gigantic and noisy data streams.  
 **Topic:** The training focused on the problem of how to reason in real-time on gigantic and noisy data streams in order to support the decision process of extremely large numbers of concurrent users.  
@@ -38,7 +38,7 @@ Master thesis:
   
 Software Engineer:
 ====== 
-**SETS Solutions, Beirut, Lebanon**
+**SETS Solutions, Beirut, Lebanon** July 2016 - September 2017
 
 Member of an Agile Scrum development team responsible for a Human Resources Management System [People365](https://people365.com).
  
