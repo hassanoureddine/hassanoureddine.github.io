@@ -16,7 +16,7 @@ My main research interests include data management, data processing, data mining
 
 
 **Brief Biography:** 
- * **11/2022 - Present:** Ph.D. in Computer Science, University of Western Brittany, Brest, France;     
+ * **11/2018 - Present:** Ph.D. in Computer Science, University of Western Brittany, Brest, France;     
  * **09/2016 - 09/2018:** Masters degree in Information Systems and Data Intelligence, Lebanese University, Beirut, Lebanon;
  * **09/2013 - 09/2016:** Bachelor degree in Computer Science, Lebanese University Beirut, Lebanon
 
