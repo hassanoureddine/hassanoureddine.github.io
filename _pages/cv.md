@@ -20,8 +20,8 @@ PhD thesis:
 **The French Naval Academy Research Institute (IRENav), Brest, France**
 
 **Thesis title:** Modelling, managing and processing of mobility data in urban environments.  
-**Topic:** The research is motivated by the need for a better understanding of the impact of pollution on human mobilities in urban environments. This work aims at providing contributions towards generic modelling and management approaches for semantic trajectories in indoor and outdoor environments and real-time detection of complex situations from the semantic trajectories. This work includes integrating crowdsourced information, including spatio-temporal data, the offline processing of these data on graph and relational databases and the real-time processing on top of streaming big data frameworks.
-**Main duties performed:**
+**Topic:** The research is motivated by the need for a better understanding of the impact of pollution on human mobilities in urban environments. This work aims at providing contributions towards generic modelling and management approaches for semantic trajectories in indoor and outdoor environments and real-time detection of complex situations from the semantic trajectories. This work includes integrating crowdsourced information, including spatio-temporal data, the offline processing of these data on graph and relational databases and the real-time processing on top of streaming big data frameworks. 
+**Main duties performed:** 
 * Develop a hierarchical and unified spatial model for indoor and outdoor spaces.
 * Develop a generic approach for indoor and outdoor semantic trajectories.
 * Develop a framework for real-time detection of complex situations based on semantic semantic trajectories.
@@ -31,9 +31,9 @@ Master thesis:
 ======
 **Telecom SudParis (SAMOVAR), Evry, France**
 
-**Thesis title:** Real-Time reasoning on gigantic and noisy data streams.
-**Topic:** The training focused on the problem of how to reason in real-time on gigantic and noisy data streams in order to support the decision process of extremely large numbers of concurrent users.
-**Main duties performed:** Investigate and develop an expressive non-monotonic logic-based formalism for the reasoning over uncertain data stream through logical constraints.
+**Thesis title:** Real-Time reasoning on gigantic and noisy data streams. 
+**Topic:** The training focused on the problem of how to reason in real-time on gigantic and noisy data streams in order to support the decision process of extremely large numbers of concurrent users. 
+**Main duties performed:** Investigate and develop an expressive non-monotonic logic-based formalism for the reasoning over uncertain data stream through logical constraints. 
 
   
 Software Engineer:
@@ -56,7 +56,7 @@ Technical Skills
 Language
 ======
 English: Fluent   
-French: Intermediate   
+French: Fluent   
 Arabic: Native
 
 
