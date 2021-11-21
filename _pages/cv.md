@@ -45,7 +45,7 @@ Member of an Agile Scrum development team responsible for a Human Resources Mana
  
 Technical Skills
 ======
-* **Programming languages:**  Python, Java, C#, C++, C, Scala, SQL 
+* **Programming languages:**  Python, Java, C#, C++, C, Scala 
 * **Databases:** Neo4j, PostgresSQL/PostGIS, MongoDB, Ms SQL Server, MySQL
 * **Web development:** Asp.net, PHP, JavaScript
 * **Big data technologies:** e.g., Flink, FlinkCEP, Kafka, Spark, Hadoop, MapReduce, Cassandra
