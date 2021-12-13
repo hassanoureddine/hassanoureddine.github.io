@@ -24,7 +24,7 @@ PhD thesis:
 **Main duties performed:** 
 * Develop a hierarchical and unified spatial model for indoor and outdoor spaces.
 * Develop a generic approach for indoor and outdoor semantic trajectories.
-* Develop a framework for real-time detection of complex situations based on semantic semantic trajectories.
+* Develop a framework for real-time detection of complex situations based on semantic trajectories.
 
 
 Master thesis:
