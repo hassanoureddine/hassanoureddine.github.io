@@ -29,7 +29,7 @@ PhD thesis:
 
 Master thesis:
 ======
-**Telecom SudParis (SAMOVAR), Evry, France**   
+**Telecom SudParis (SAMOVAR - ACMES), Evry, France**   
 *April 2018 - September 2018*   
 **Thesis title:** Real-Time reasoning on gigantic and noisy data streams.  
 **Topic:** The training focused on the problem of how to reason in real-time on gigantic and noisy data streams in order to support the decision process of extremely large numbers of concurrent users.  
