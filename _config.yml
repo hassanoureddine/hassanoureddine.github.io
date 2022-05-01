@@ -11,7 +11,7 @@ title                    : "Hassan Noureddine"
 title_separator          : "-"
 name                     : &name "Hassan Noureddine"
 description              : &description "Ph.D. researcher"
-url                      : https://hsnnd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hassanoureddine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsnnd/hsnnd.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hsnnd"
+  github           : "hassanoureddine"
   google_plus      :
   keybase          :
   instagram        :
